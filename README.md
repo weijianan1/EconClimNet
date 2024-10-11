@@ -10,9 +10,9 @@ This repository contains the source code EconClimNet for our paper: "Climate Cha
 pip install -r requirements.txt
 ```
 
-3. Download the ERA5 dataset from [[]](). And place them under the './dataset/ERA5' folder.
+3. Download the ERA5 dataset from [[Google Drive]](https://drive.google.com/file/d/1u4UQk0M_Ht3jKEKZGrmFdsvlHgAdXibh/view?usp=sharing). And place them under the './dataset/ERA5' folder.
 
-4. Download the CMIP5 dataset from [[]](). And place them under the './dataset/CMIP5' folder.
+4. Download the CMIP5 dataset from [[Google Drive]](https://drive.google.com/file/d/1b9d56N1abrYimzaDDUGzK5CA-t16As3R/view?usp=sharing). And place them under the './dataset/CMIP5' folder.
 
 5. Train and evaluate the model with the following scripts.
 
@@ -30,7 +30,7 @@ bash ./scripts/eval_man.sh
 bash ./scripts/eval_serv.sh
 ```
 
-6. We also provide the checkpoints for gdp, ag, man, ser settings in [[Google Drive]]()
+6. We also provide the checkpoints for gdp, ag, man, ser settings in [[Google Drive]](https://drive.google.com/file/d/1O_jiN-8zxztd_wNJBQE4rm8Bo3V9hZCz/view?usp=sharing)
 
 ## Citation
 
